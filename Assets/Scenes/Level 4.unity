@@ -296,7 +296,7 @@ GameObject:
   - component: {fileID: 498239384}
   - component: {fileID: 498239383}
   - component: {fileID: 498239382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -517,7 +517,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 5.632688
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -541,7 +541,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -1.09, y: -1.09, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -561,7 +561,7 @@ GameObject:
   - component: {fileID: 596262825}
   - component: {fileID: 596262824}
   - component: {fileID: 596262828}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -863,7 +863,7 @@ GameObject:
   - component: {fileID: 692586043}
   - component: {fileID: 692586042}
   - component: {fileID: 692586046}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_14 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1036,7 +1036,7 @@ GameObject:
   - component: {fileID: 795125148}
   - component: {fileID: 795125147}
   - component: {fileID: 795125151}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_14 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1209,7 +1209,7 @@ GameObject:
   - component: {fileID: 803928694}
   - component: {fileID: 803928693}
   - component: {fileID: 803928697}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6567,7 +6567,7 @@ GameObject:
   - component: {fileID: 1265972011}
   - component: {fileID: 1265972010}
   - component: {fileID: 1265972014}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_14 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6774,7 +6774,7 @@ GameObject:
   - component: {fileID: 1359573056}
   - component: {fileID: 1359573055}
   - component: {fileID: 1359573059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7371,7 +7371,7 @@ GameObject:
   - component: {fileID: 1753223908}
   - component: {fileID: 1753223907}
   - component: {fileID: 1753223911}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Obstacles_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7712,7 +7712,7 @@ GameObject:
   - component: {fileID: 2080575257}
   - component: {fileID: 2080575256}
   - component: {fileID: 2080575260}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cerdo1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

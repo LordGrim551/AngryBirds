@@ -4,7 +4,7 @@ using static Unity.Burst.Intrinsics.X86.Sse4_2;
 
 public class WindController : MonoBehaviour
 {
-    public float windStrength = 1f; // Fuerza del viento ajustable en el editor
+    public float windStrength = 0.5f; // Fuerza del viento ajustable en el editor
     public bool estadoViento = false;    
 
     void Update()
