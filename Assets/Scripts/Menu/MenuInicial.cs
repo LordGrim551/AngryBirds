@@ -6,13 +6,16 @@ using UnityEngine.SceneManagement;
 public class MenuInicial : MonoBehaviour
 {
     // Start is called before the first frame update
+    public GameObject levelController;
     public void Jugar()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        levelController.SetActive(true);
+   
     }
 
     public void Salir()
     {
+        UnityEditor.EditorApplication.isPlaying = false;
         Debug.Log("Salir...");
         Application.Quit();
     }
